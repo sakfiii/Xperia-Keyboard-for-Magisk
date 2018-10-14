@@ -1,7 +1,7 @@
 id=XperiaKeyboard
 name=Xperia Keyboard
 version=v8.1.A.0.12_ARM64
-versionCode=8.1.A.0.12
+versionCode=v1
 author=SakFi
 description=This Module will add Sony Xperia™ Keyboard to System, After flashing you need to enable this Keyboard in Settings > Language & Input > 
 Current Keyboard > enable Xperia Keyboard!!! & Dont forget to go to keyboard settings & download language pack!
